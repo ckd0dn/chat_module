@@ -187,7 +187,7 @@ class _HomeState extends State<Home> {
                 child: InkWell(
                   child: Icon(
                     Icons.camera_alt,
-                    color: Colors.green,
+                    color: Colors.red,
                     size: 24,
                   ),
                   onTap: () {},
